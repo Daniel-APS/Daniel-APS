@@ -1,26 +1,41 @@
-###  Olá! Eu sou o Daniel Araujo 🖖
+# Olá! Eu sou o Daniel Araujo 🖖
 
-- 📚 Estudando C# e .Net.
+## Sobre Mim
 
-<div align="center">
-  <a href="https://github.com/Daniel-APS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-APS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-APS&layout=compact&langs_count=7&theme=dark"/>
+Programador buscando uma primeira oportunidade como estagiário ou júnior. Possuo interesse em uma
+oportunidade para atuar como fullstack, backend banco de dados.
+
+## Habilidades Técnicas
+
+<div align="left"> 
+    <img align="center" alt="C#" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+    <img align="center" alt=".NET" height="40" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=148&color=currentColor">
+    <img align="center" alt="SQL" height="40" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
+    <img align="center" alt="Javascript" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">
+    <img align="center" alt="HTML" height="40" width="40" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">
+    <img align="center" alt="CSS" height="40" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+    <img align="center" alt="Git" height="40" width="40" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">
 </div>
-<div style="display: inline_block"><br>
 
-  
-  <div style="dysplay: inline_block"><br/>
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="center" alt="C#" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+
+
+<br />
+<div> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-APS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-APS&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
-##
   
-<div>
  
-  <a href = "mailto:daniel.araujo.dev@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" destino ="_blank"></a>
+## Contato
+
+  <a href = "mailto:daniel.aps.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/daniel-araujo-477300239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## Idiomas
+
+- Português (nativo)
+- Inglês (intermediário)
+
 </div>
   
 <div
